@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: 'Alexandria', sans-serif;
+}
+
+body {
+  overflow: hidden;
+}
+
+body,
+h1, h2, h3,
+ul,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.box {
+  font-size: 1px;
+}
+.App {
+  background-color: rgb(63, 63, 63);
+  height: 100vh;
+  width: 100%;
+  aspect-ratio: 1;
+  position: relative;
+
+  padding: 1rem;
+}
+.flexItemsCentered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*  */
+.image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 1.5s;
+}
+
+.image-Active {
+  opacity: 1;
+  animation: zoom 10s;
+}
+
+.image-dimensionsWidth {
+  width: 100%;
+}
+.image-dimensionsHeight {
+  height: 100%;
+}
+/*  */
+
+.card {
+  padding: 2rem 1rem;
+  border-radius: 2rem;
+  z-index: 2000;
+  backdrop-filter: blur(4px);
+
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+
+.pressicon {
+  width: 1rem;
+}
+
+.bx {
+  font-size: 1rem;
+}
+.card__description {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.description__icon {
+  width: 50%;
+}
+.description__text {
+  display: grid;
+  gap: 1rem;
+
+}
+
+.text__title {
+  justify-self: center;
+}
+
+.text__list {
+  display: grid;
+  gap: 0.6rem;
+  font-size: 0.8rem;
+}
+
+.card__button {
+  justify-self: center;
+  padding: 0.5rem 1.5rem;
+  border-radius: 2rem;
+  transition: transform 0.2s;
+}
+.card__button:hover {
+  transform: scale(1.05);
+}
+
+@keyframes zoom {
+  0% {transform: scale(1);}
+  50% {transform: scale(1.1);}
+  100% {transform: scale(1);}
+  
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid #FFF;
+  border-bottom-color: #FF3D00;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+  }
+
+  @keyframes rotation {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+  } 

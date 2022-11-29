@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import './App.css'
-import { Card } from './assets/Card';
+import { Card } from './components/Card';
 import backgrounds from './json/backgrounds.json'
 
 function App() {

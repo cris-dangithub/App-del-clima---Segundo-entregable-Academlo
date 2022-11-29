@@ -11,7 +11,7 @@ export const Card = (
   }
   const windIcon = <i className='bx bx-wind' ></i>
   const cloudIcon = <i className='bx bxs-cloud' ></i>
-  const pressIcon = <img className='pressicon' src="https://cdn-user-icons.flaticon.com/86475/86475228/1669747766004.svg?token=exp=1669748690~hmac=4c0a196df1362926ca6ed13699a51b8f" />
+  const pressIcon = <img className='pressicon' src="/images/001-barometer.png" />
   const temperatureIcon = <i className="fa-solid fa-temperature-empty"></i>
   return (
     <div className="card" style={objStyleCrd}>

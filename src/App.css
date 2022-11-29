@@ -76,6 +76,7 @@ button {
 /*  */
 
 .card {
+  min-width: 20.5rem;
   padding: 2rem 1rem;
   border-radius: 2rem;
   z-index: 2000;
@@ -99,7 +100,7 @@ button {
   justify-content: space-around;
 }
 .description__icon {
-  width: 50%;
+  width: 45%;
 }
 .description__text {
   display: grid;

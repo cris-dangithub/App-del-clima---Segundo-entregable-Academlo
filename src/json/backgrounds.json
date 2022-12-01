@@ -1,64 +1,64 @@
 {
   "Thunderstorm": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1584267385289-81fdaa6efe7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1514856841774-b927b221d7c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1506455352093-5ca9cdcbbea1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1482005253821-5d6a2c685879?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80"
+      "/images/bg/thunder01.jpg",
+      "/images/bg/thunder02.jpg",
+      "/images/bg/thunder03.jpg",
+      "/images/bg/thunder04.jpg"
     ],
     "background-color": "#b1caec71"
   },
   "Drizzle": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1505404919723-002ecad81b92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1556485689-33e55ab56127?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1599738874797-d1632738da20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1417008914239-59b898b49382?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80"
+      "/images/bg/Drizzle01.jpg",
+      "/images/bg/Drizzle02.jpg",
+      "/images/bg/Drizzle03.jpg",
+      "/images/bg/Drizzle04.jpg"
     ],
     "background-color": "#a3dfd5a6"
   },
   "Rain": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1630574232726-fc3ea90637b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1620385019253-b051a26048ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1503429134808-fdf0cd4e1bfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1562781105-c53c27ff6007?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80"
+      "/images/bg/rain01.jpg",
+      "/images/bg/rain02.jpg",
+      "/images/bg/rain03.jpg",
+      "/images/bg/rain04.jpg"
     ],
     "background-color": "#90c5d33f"
   },
   "Snow": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1548777123-e216912df7d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1551582045-6ec9c11d8697?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1544235653-a313b8a430d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1520491286939-1680f46efe91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80"
+      "/images/bg/snow01.jpg",
+      "/images/bg/snow02.jpg",
+      "/images/bg/snow03.jpg",
+      "/images/bg/snow04.jpg"
     ],
     "background-color": "#00afaf7c"
   },
   "Atmosphere": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1509021348834-5fc022c5a559?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1465726395152-3f57db35981a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80",
-      "https://images.unsplash.com/photo-1487111023822-2e903e12f6f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4000&q=80"
+      "/images/bg/atmosphere01.jpg",
+      "/images/bg/atmosphere02.jpg",
+      "/images/bg/atmosphere03.jpg",
+      "/images/bg/atmosphere04.jpg"
     ],
     "background-color": "#e4cbae7c"
   },
   "Clear": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1541734091135-d4a3c6235ed8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80",
-      "https://images.unsplash.com/photo-1553584008-5a78faae2896?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80",
-      "https://images.unsplash.com/photo-1568811432862-00bd95c69bac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80",
-      "https://images.unsplash.com/photo-1641236545888-81081a66f65f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80"
+      "/images/bg/clear01.jpg",
+      "/images/bg/clear02.jpg",
+      "/images/bg/clear03.jpg",
+      "/images/bg/clear04.jpg"
     ],
     "background-color": "#252b3f94"
   },
   "Clouds": {
     "backgroundImages": [
-      "https://images.unsplash.com/photo-1623430618732-6df749201127?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80",
-      "https://images.unsplash.com/photo-1599371112135-4de5fce1ed80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80",
-      "https://images.unsplash.com/photo-1444647917995-a8cc072fe128?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80",
-      "https://images.unsplash.com/photo-1567941085898-d5bf3ff007ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5000&q=80"
+      "/images/bg/clouds01.jpg",
+      "/images/bg/clouds02.jpg",
+      "/images/bg/clouds03.jpg",
+      "/images/bg/clouds04.jpg"
     ],
     "background-color": "#725347a1"
   }

@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 export const Card = (
   { name, country, icon, description, wind, clouds, pressure, temperature, backgroundCard }) => {
   const [isCelcius, setIsCelcius] = useState(true)
-  const iconLink = `http://openweathermap.org/img/wn/${icon}@4x.png`
+  const iconLink = `https://openweathermap.org/img/wn/${icon}@4x.png`
   const handleClick = () => setIsCelcius(!isCelcius)
   const objStyleCrd = {
     backgroundColor: backgroundCard,

@@ -81,6 +81,7 @@ button {
   border-radius: 2rem;
   z-index: 2000;
   backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 
   display: grid;
   gap: 1rem;
